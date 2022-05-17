@@ -1,0 +1,40 @@
+C:\Users\fedeb\source\repos\TP003\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\fedeb\source\repos\TP003\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\fedeb\source\repos\TP003\DAL\bin\Debug\DAL.dll
+C:\Users\fedeb\source\repos\TP003\DAL\bin\Debug\DAL.pdb
+C:\Users\fedeb\source\repos\TP003\DAL\bin\Debug\ENTITY.dll
+C:\Users\fedeb\source\repos\TP003\DAL\bin\Debug\ENTITY.pdb
+C:\Users\fedeb\source\repos\TP003\DAL\obj\Debug\DAL.dll
+C:\Users\fedeb\source\repos\TP003\DAL\obj\Debug\DAL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\DAL\bin\Debug\DAL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\DAL\bin\Debug\DAL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\DAL\bin\Debug\ENTITY.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\DAL\bin\Debug\ENTITY.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\DAL\obj\Debug\DAL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\DAL\obj\Debug\DAL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\DAL\bin\Debug\DAL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\DAL\bin\Debug\DAL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\DAL\bin\Debug\ENTITY.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\DAL\bin\Debug\ENTITY.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\DAL\obj\Debug\DAL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\DAL\obj\Debug\DAL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\DAL\bin\Debug\DAL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\DAL\bin\Debug\DAL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\DAL\bin\Debug\ENTITY.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\DAL\bin\Debug\ENTITY.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\DAL\obj\Debug\DAL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\DAL\obj\Debug\DAL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V4-ProyectoFinal-BrennerFederico\DAL\bin\Debug\DAL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V4-ProyectoFinal-BrennerFederico\DAL\bin\Debug\DAL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V4-ProyectoFinal-BrennerFederico\DAL\bin\Debug\ENTITY.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V4-ProyectoFinal-BrennerFederico\DAL\bin\Debug\ENTITY.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V4-ProyectoFinal-BrennerFederico\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V4-ProyectoFinal-BrennerFederico\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V4-ProyectoFinal-BrennerFederico\DAL\obj\Debug\DAL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V4-ProyectoFinal-BrennerFederico\DAL\obj\Debug\DAL.pdb

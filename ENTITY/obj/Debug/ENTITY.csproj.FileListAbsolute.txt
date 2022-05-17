@@ -1,0 +1,24 @@
+C:\Users\fedeb\source\repos\TP003\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\fedeb\source\repos\TP003\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\fedeb\source\repos\TP003\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\fedeb\source\repos\TP003\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\fedeb\source\repos\TP003\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\fedeb\source\repos\TP003\ENTITY\obj\Debug\ENTITY.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\ENTITY\bin\Debug\ENTITY.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\ENTITY\bin\Debug\ENTITY.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\ENTITY\obj\Debug\ENTITY.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\ENTITY\obj\Debug\ENTITY.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\ENTITY\bin\Debug\ENTITY.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\ENTITY\bin\Debug\ENTITY.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\ENTITY\obj\Debug\ENTITY.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\ENTITY\obj\Debug\ENTITY.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\ENTITY\bin\Debug\ENTITY.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\ENTITY\bin\Debug\ENTITY.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\ENTITY\obj\Debug\ENTITY.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\ENTITY\obj\Debug\ENTITY.pdb

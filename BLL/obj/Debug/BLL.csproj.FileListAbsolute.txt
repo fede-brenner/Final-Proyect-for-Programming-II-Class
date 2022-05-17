@@ -1,0 +1,55 @@
+C:\Users\fedeb\source\repos\TP003\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\fedeb\source\repos\TP003\BLL\bin\Debug\BLL.dll
+C:\Users\fedeb\source\repos\TP003\BLL\bin\Debug\BLL.pdb
+C:\Users\fedeb\source\repos\TP003\BLL\bin\Debug\DAL.dll
+C:\Users\fedeb\source\repos\TP003\BLL\bin\Debug\ENTITY.dll
+C:\Users\fedeb\source\repos\TP003\BLL\bin\Debug\DAL.pdb
+C:\Users\fedeb\source\repos\TP003\BLL\bin\Debug\ENTITY.pdb
+C:\Users\fedeb\source\repos\TP003\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\fedeb\source\repos\TP003\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\fedeb\source\repos\TP003\BLL\obj\Debug\BLL.dll
+C:\Users\fedeb\source\repos\TP003\BLL\obj\Debug\BLL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\BLL\bin\Debug\BLL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\BLL\bin\Debug\BLL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\BLL\bin\Debug\DAL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\BLL\bin\Debug\ENTITY.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\BLL\bin\Debug\DAL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\BLL\bin\Debug\ENTITY.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\BLL\bin\Debug\BLL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\BLL\bin\Debug\BLL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\BLL\bin\Debug\DAL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\BLL\bin\Debug\ENTITY.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\BLL\bin\Debug\DAL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\BLL\bin\Debug\ENTITY.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V2-ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\BLL\bin\Debug\BLL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\BLL\bin\Debug\BLL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\BLL\bin\Debug\DAL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\BLL\bin\Debug\ENTITY.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\BLL\bin\Debug\DAL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\BLL\bin\Debug\ENTITY.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V3-ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V4-ProyectoFinal-BrennerFederico\BLL\bin\Debug\BLL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V4-ProyectoFinal-BrennerFederico\BLL\bin\Debug\BLL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V4-ProyectoFinal-BrennerFederico\BLL\bin\Debug\DAL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V4-ProyectoFinal-BrennerFederico\BLL\bin\Debug\ENTITY.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V4-ProyectoFinal-BrennerFederico\BLL\bin\Debug\DAL.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V4-ProyectoFinal-BrennerFederico\BLL\bin\Debug\ENTITY.pdb
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V4-ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V4-ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V4-ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V4-ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.dll
+D:\Users\fedeb\Documents\1-Universidad\2do año\Programnacion II\V4-ProyectoFinal-BrennerFederico\BLL\obj\Debug\BLL.pdb
